@@ -1,1 +1,61 @@
+{
+    "ALEGRIA":
+    [
+        "alegria01.mp3",
+        "alegria02.mp3",
+        "alegria03.mp3",
+        "alegria04.mp3",
+        "alegria05.mp3",
+        "alegria06.mp3"
+    ],
 
+    "TRISTEZA":
+    [
+        "tristeza01.mp3",
+        "tristeza02.mp3",
+        "tristeza03.mp3",
+        "tristeza04.mp3",
+        "tristeza05.mp3",
+        "tristeza06.mp3"
+    ],
+
+    "ENOJO":
+    [
+        "enojo01.mp3",
+        "enojo02.mp3",
+        "enojo03.mp3",
+        "enojo04.mp3",
+        "enojo05.mp3",
+        "enojo06.mp3"
+    ],
+
+    "MIEDO":
+    [
+        "miedo01.mp3",
+        "miedo02.mp3",
+        "miedo03.mp3",
+        "miedo04.mp3",
+        "miedo05.mp3",
+        "miedo06.mp3"
+    ],
+
+    "DESAGRADO":
+    [
+        "desagrado01.mp3",
+        "desagrado02.mp3",
+        "desagrado03.mp3",
+        "desagrado04.mp3",
+        "desagrado05.mp3",
+        "desagrado06.mp3"
+    ],
+
+    "SORPRESA":
+    [
+        "sorpresa01.mp3",
+        "sorpresa02.mp3",
+        "sorpresa03.mp3",
+        "sorpresa04.mp3",
+        "sorpresa05.mp3",
+        "sorpresa06.mp3"
+    ]
+}
