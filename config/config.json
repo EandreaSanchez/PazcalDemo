@@ -1,1 +1,10 @@
-
+{
+  "prompts": {
+    "modo1": "/system/modo1.mp3",
+    "modo2": "/system/modo2.mp3"
+  },
+  "ruido_blanco": [
+    "Lluvia.mp3",
+    "Piano.mp3"
+  ]
+}
