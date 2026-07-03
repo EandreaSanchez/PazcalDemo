@@ -1,0 +1,14 @@
+{
+  "contentVersion": "2026-07-03-001",
+  "files": [
+    { "remote": "config/cards.json", "local": "/config/cards.json" },
+    { "remote": "config/emotions.json", "local": "/config/emotions.json" },
+    { "remote": "config/stories.json", "local": "/config/stories.json" },
+    { "remote": "config/config.json", "local": "/config/config.json" },
+
+    { "remote": "system/modo1.mp3", "local": "/system/modo1.mp3" },
+    { "remote": "system/modo2.mp3", "local": "/system/modo2.mp3" },
+
+    { "remote": "M2/historias/Intro-M2.mp3", "local": "/M2/historias/Intro-M2.mp3" }
+  ]
+}
