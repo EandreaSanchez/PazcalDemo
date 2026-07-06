@@ -1,16 +1,32 @@
 {
-    "4FA7308B":
+    "C8F4A502":
     {
         "emotion":"ALEGRIA"
     },
 
-    "7B711207":
+    "046F2F4A575884":
     {
         "emotion":"TRISTEZA"
     },
 
-    "259A16D2":
+    "0422F4BC790000":
     {
         "emotion":"SORPRESA"
+    },
+    
+    "0476E6C1790000":
+    {
+        "emotion":"ENOJO"
+    },
+    
+    "044C1194780000":
+    {
+        "emotion":"DESAGRADO"
+    },
+    
+    "04BA9DBD790000":
+    {
+        "emotion":"MIEDO"
     }
+    
 }
