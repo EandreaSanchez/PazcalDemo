@@ -1,18 +1,52 @@
 {
-  "M2-L1": {
-    "segments": [
-      { "audio": "M2-L1-S1.mp3", "emotion": "ALEGRIA" },
-      { "audio": "M2-L1-S2.mp3", "emotion": "TRISTEZA" },
-      { "audio": "M2-L1-S3.mp3", "emotion": "SORPRESA" },
-      { "audio": "M2-L1-S4.mp3", "emotion": "ALEGRIA" },
-      { "audio": "M2-L1-S5.mp3", "emotion": "TRISTEZA" },
-      { "audio": "M2-L1-S6.mp3", "emotion": "SORPRESA" }
-    ],
-    "hints": {
-      "generic": [
-        "M2-Pista 1.mp3",
-        "M2-Pista 2.mp3"
-      ]
+  "stories": {
+    "M2-L1": {
+      "segments": [
+        { "audio": "M2-L1-S1.mp3", "emotion": "ALEGRIA" },
+        { "audio": "M2-L1-S2.mp3", "emotion": "TRISTEZA" },
+        { "audio": "M2-L1-S3.mp3", "emotion": "SORPRESA" },
+        { "audio": "M2-L1-S4.mp3", "emotion": "RABIA" },
+        { "audio": "M2-L1-S5.mp3", "emotion": "MIEDO" },
+        { "audio": "M2-L1-S6.mp3", "emotion": "DESAGRADO" }
+      ],
+      "hints": {
+        "generic": [
+          "M2-Pista-1.mp3",
+          "M2-Pista-2.mp3"
+        ]
+      }
+    },
+    "M2-L2": {
+      "segments": [
+        { "audio": "M2-L2-S1.mp3", "emotion": "MIEDO" },
+        { "audio": "M2-L2-S2.mp3", "emotion": "ALEGRIA" },
+        { "audio": "M2-L2-S3.mp3", "emotion": "DESAGRADO" },
+        { "audio": "M2-L2-S4.mp3", "emotion": "TRISTEZA" },
+        { "audio": "M2-L2-S5.mp3", "emotion": "SORPRESA" },
+        { "audio": "M2-L2-S6.mp3", "emotion": "RABIA" }
+      ],
+      "hints": {
+        "generic": [
+          "M2-Pista-1.mp3",
+          "M2-Pista-2.mp3"
+        ]
+      }
+    },
+    "M2-L3": {
+      "segments": [
+        { "audio": "M2-L3-S1.mp3", "emotion": "SORPRESA" },
+        { "audio": "M2-L3-S2.mp3", "emotion": "RABIA" },
+        { "audio": "M2-L3-S3.mp3", "emotion": "TRISTEZA" },
+        { "audio": "M2-L3-S4.mp3", "emotion": "ALEGRIA" },
+        { "audio": "M2-L3-S5.mp3", "emotion": "DESAGRADO" },
+        { "audio": "M2-L3-S6.mp3", "emotion": "MIEDO" }
+      ],
+      "hints": {
+        "generic": [
+          "M2-Pista-1.mp3",
+          "M2-Pista-2.mp3"
+        ]
+      }
     }
   }
 }
