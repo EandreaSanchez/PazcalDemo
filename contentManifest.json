@@ -1,5 +1,5 @@
 {
-  "contentVersion": "2026-07-14-002",
+  "contentVersion": "2026-07-14-003",
   "files": [
     { "remote": "config/cards.json", "local": "/config/cards.json" },
     { "remote": "config/emotions.json", "local": "/config/emotions.json" },
