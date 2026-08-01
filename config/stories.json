@@ -35,9 +35,9 @@
     "M2-L3": {
       "segments": [
         { "audio": "M2-L3-S5.mp3", "emotion": "SORPRESA" },
-        { "audio": "M2-L3-S6.mp3", "emotion": "RABIA" },
+        { "audio": "M2-L3-S3.mp3", "emotion": "RABIA" },
         { "audio": "M2-L3-S4.mp3", "emotion": "TRISTEZA" },
-        { "audio": "M2-L3-S3.mp3", "emotion": "ALEGRIA" },
+        { "audio": "M2-L3-S6.mp3", "emotion": "ALEGRIA" },
         { "audio": "M2-L3-S1.mp3", "emotion": "DESAGRADO" },
         { "audio": "M2-L3-S2.mp3", "emotion": "MIEDO" }
       ],
